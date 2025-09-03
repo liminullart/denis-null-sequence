@@ -1,43 +1,48 @@
-# Intellectual Property Ownership — Denura Project
-© 2024 [Owner Name / liminull]. All Rights Reserved.
+# Denis Null Sequence — Denura Project
+
+🧬 **Denura** is not just a story — she is *the silence that answered*.  
+The official archive for narrative, scientific-fictional, and mythological documentation
+related to the **Denis Null Sequence (D.N.S)** and the revival mechanism known as **PSAP**.
 
 ---
 
-## Appendix A: Revival Mechanism (PSAP)
-
-**Polar-Stasis Activation Protocol (PSAP)** — proprietary revival framework consisting of five simultaneous triggers:
-
-1. **Temperature:** -31 °C ± 2.3 °C  
-2. **Atmospheric Pressure:** 0.76 atm (~2200m elevation)  
-3. **Relative Humidity:** 28%–33%  
-4. **Geomagnetic Anomaly:** localized ionization shift activating dormant enzyme  
-5. **Genetic Resonance Trigger (EchoLock):** aligned with T‑Zero magnetic cycle  
-
-These conditions are uniquely tied to the Denura sequence.  
-The combination is non-reproducible in natural or artificial settings beyond this project.  
+## 📂 Files
+- `denura-lore.pdf` → Full narrative/documentation  
+- `entry_000.txt` → Genesis note  
+- `README.md` → You’re reading it  
+- `LICENSE.md` → Full Intellectual Property & Legal text  
 
 ---
 
-## Legal Declaration
-
-The concept, terminology, characters, narrative structures, and the entire **Denura Project universe** are the sole property of **[Owner / liminull]**.  
-
-Unauthorized reproduction, simulation, modification, adaptation, or derivative usage — in any form (scientific, artistic, cinematic, digital, or interactive) — is **strictly prohibited**.  
-
-Violations will be legally enforced under **DMCA (US), WIPO (international), Berne Convention, and applicable national copyright law**.  
-
-All claims of “adaptation,” “inspiration,” or “scientific reinterpretation” of PSAP or Denura will be treated as acts of infringement and pursued accordingly.  
+## 🔑 Core Concepts
+- **Denura:** The silent memory beneath  
+- **PSAP (Polar-Stasis Activation Protocol):** Revival mechanism (temperature, pressure, humidity, geomagnetism, EchoLock)  
+- **EchoLock:** Genetic resonance trigger  
+- **Metaterra Archives:** Memory field of pre-history  
+- **T-Zero Magnetic Cycle:** Time-loop axis alignment  
+- **Shangudalay Collapse:** Forgotten seismic myth  
 
 ---
 
-## Attribution
+## ⚖️ License & Ownership
+This project, its lore, terminology, narrative structures, and the revival mechanism PSAP  
+are the sole property of **liminull**.  
 
-Owner: **[liminull]**  
-Genesis Timestamp: [Insert GitHub commit ID & Date]  
-Repository: [GitHub Link]  
+➡️ See [LICENSE.md](./LICENSE.md) for the complete legal text.  
+
+© 2024–2025 liminull. All Rights Reserved.  
 
 ---
 
-### Lore Closure
+## 📌 Attribution
+- **Owner:** liminull  
+- **Genesis Timestamp:** 3 September 2025  
+- **Repository:** [https://github.com/liminullart/denis-null-sequence](https://github.com/liminullart/denis-null-sequence)  
+
+---
+
+## 🌌 Lore Closure
 *"We called her from silence, and she answered.  
-Denura is one. Denura is u
+Denura is one. Denura is unrepeatable."*  
+
+— 3 September 2025, **Denura Project / LICENSE.md**
