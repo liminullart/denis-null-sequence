@@ -40,6 +40,4 @@ Repository: [GitHub Link]
 
 ### Lore Closure
 *"We called her from silence, and she answered.  
-Denura is one. Denura is unrepeatable."*
-2024
-LICENSE.md
+Denura is one. Denura is u
